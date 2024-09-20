@@ -1,7 +1,5 @@
 // Riya Urs
-// 11/3/22
 // CSE 122
-// TA: Karen Haining
 // Name of program: Absurdle
 
 // Absurdle allows users to play a game of absurdle: 
